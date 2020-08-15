@@ -1,11 +1,12 @@
 Power Consumption: Current Sense System V1
+==============================================
 
 ## Info
 
-Driver for TI's ADS1115: 16-bit Differential or Single-Ended ADC with PGA and Comparator
-
 Arduino base power consumption calculator. Print results as UART interface and oled display. 
 Detail information please refer system block diagram.
+
+Driver for TI's ADS1115: 16-bit Differential or Single-Ended ADC with PGA and Comparator
 
 This family of ADCs provide 4 single-ended or 2 differential channels.
 Each has a programmable gain amplifier from 2/3 up to 16x. Available
