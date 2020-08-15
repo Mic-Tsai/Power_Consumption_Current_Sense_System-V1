@@ -1,9 +1,5 @@
 Power Consumption: Current Sense System V1
-==============================================
 
-![*Power Consumption: Current Sense System V1*](https://github.com/Mic-Tsai/Power-Consumption-Current-Sense-System-V1/blob/master/res/Current%20Sense%20System%20V1.png)
-
-==============================================
 ## Info
 
 Driver for TI's ADS1115: 16-bit Differential or Single-Ended ADC with PGA and Comparator
@@ -17,6 +13,11 @@ in 16 bit versions:
 
 * [ADS1115 16-bit ADC](https://www.adafruit.com/product/1085)
 
+==============================================
+
+![*Power Consumption: Current Sense System V1*](https://github.com/Mic-Tsai/Power-Consumption-Current-Sense-System-V1/blob/master/res/Current%20Sense%20System%20V1.png)
+
+==============================================
 
 ## License Information
 
