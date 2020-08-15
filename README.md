@@ -1,7 +1,7 @@
 Power Consumption: Current Sense System V1
 ==============================================
 
-(https://github.com/Mic-Tsai/Power-Consumption-Current-Sense-System-V1/blob/master/res/Current%20Sense%20System%20V1.png)
+![*Power Consumption: Current Sense System V1*](https://github.com/Mic-Tsai/Power-Consumption-Current-Sense-System-V1/blob/master/res/Current%20Sense%20System%20V1.png)
 
 ==============================================
 ## Info
