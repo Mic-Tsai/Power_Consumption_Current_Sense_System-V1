@@ -1,7 +1,7 @@
 Power Consumption: Current Sense System V1
 ======================================
 
-![*Power Consumption: Current Sense System V1*](res/Current Sense System V1.jpg)
+![*Power Consumption: Current Sense System V1*](https://github.com/Mic-Tsai/Power-Consumption-Current-Sense-System-V1/blob/master/res/Current%20Sense%20System%20V1.png)
 
 Arduino base with ADS1115 (Analog-Digital Convertor) work for power consumption calculation. Print results as UART interface and oled display. Detail information please refer system block diagram.
 
