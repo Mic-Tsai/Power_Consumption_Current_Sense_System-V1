@@ -22,5 +22,3 @@ Available in 16 bit versions:
 >>>All software is released under the MIT License(http://opensource.org/licenses/MIT).
 >>#### Documentation
 >>>The documentation on this page is released under [Creative Commons Share-alike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/).
->> 
-> 
