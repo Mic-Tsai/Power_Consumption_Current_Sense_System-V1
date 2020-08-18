@@ -18,9 +18,7 @@ Available in 16 bit versions:
 >>This product is open source! Both, our hardware and software are open source and licensed under the following:
 >>#### Hardware
 >>>All hardware is released under [Creative Commons Share-alike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/).
-![CC-BY-SA-4.0]
 >>#### Software 
 >>>All software is released under the MIT License(http://opensource.org/licenses/MIT).
 >>#### Documentation
 >>>The documentation on this page is released under [Creative Commons Share-alike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/).
-![CC-BY-SA-4.0]
