@@ -9,6 +9,11 @@ Available in 16-bit versions:
 
 * [ADS1115 16-bit ADC](https://www.adafruit.com/product/1085)
 
+
+Any question or need technical support:
+
+* Contact me via mail (xbcke12345@gmail.com)
+
 ## 
 ![*Power Consumption: Current Sense System V1*](https://github.com/Mic-Tsai/Power-Consumption-Current-Sense-System-V1/blob/master/res/Current%20Sense%20System%20V1.png)
 ## 
