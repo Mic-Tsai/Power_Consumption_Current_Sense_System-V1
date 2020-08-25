@@ -1,5 +1,7 @@
 # Power Consumption | Current Sense System V1
 
+[![Donate](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://paypal.me/mictsai?locale.x=zh_TW)
+
 Arduino based power consumption calculator. Print results as UART interface and OLED display. 
 Detail information please refer system block diagram.
 
