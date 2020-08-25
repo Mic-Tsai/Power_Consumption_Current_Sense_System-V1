@@ -15,6 +15,10 @@ Available in 16-bit versions:
 Any question or need technical support:
 
 * Contact me via mail (xbcke12345@gmail.com)
+* If this project helping. Please generously support =)
+
+   [![Donate](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://paypal.me/mictsai?locale.x=zh_TW)
+
 
 ## 
 ![*Power Consumption: Current Sense System V1*](https://github.com/Mic-Tsai/Power-Consumption-Current-Sense-System-V1/blob/master/res/Current%20Sense%20System%20V1.png)
